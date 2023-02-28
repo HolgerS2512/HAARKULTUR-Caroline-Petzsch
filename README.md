@@ -14,6 +14,7 @@ A website for a self-employed mobile hairdresser.
 #### CSS
 #### JS
 #### Images
+#### Integration Google fonts
 
 ## **Installation**
 
